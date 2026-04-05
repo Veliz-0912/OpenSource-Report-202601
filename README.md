@@ -177,11 +177,53 @@ El equipo alcanzó sus metas gracias a su excelente desempeño en entornos digit
 <p align ="justify">Somos un equipo recientemente formado enfocado en desarrollar una solución tecnológica que responda a una necesidad real: mejorar el cuidado y la seguridad de los recién nacidos, ayudando a detectar a tiempo posibles señales de alerta que muchas veces pasan desapercibidas.</p>
 
 ### 1.1.2 Perfiles de integrantes del equipo
-| Foto | Descripción del Perfil |
-| :---: | :--- |
-| <img src="assets\chapter1\Foto Yazid.jpeg" width="150" alt=" Foto de Said Conde, Yazid"> | Said Conde, Yazid  <br><br> <p align="justify">Me considero una persona responsable al momento de trabajar en equipo, siempre proactivo y dispuesto a tomar las riendas en situaciones criticas. Me encanta programar y todo el area de desarrollo de software, desarrollo de videojuegos y ciberseguridad en el area de Red Team. Tengo conocimientos en Python, SQL, C++, desarrollo web. Mis conocimientos seran de gran ayuda en el desarrollo del proyecto. </p>|
-| <img src="URL_DE_TU_IMAGEN_2" width="150" alt="Nombre 2"> | **Nombre de la Persona 2** <br><br> Breve descripción sobre la experiencia de esta persona, sus habilidades principales y su contribución al proyecto. |
-| <img src="URL_DE_TU_IMAGEN_3" width="150" alt="Nombre 3"> | **Nombre de la Persona 3** <br><br> Breve descripción sobre la experiencia de esta persona, sus habilidades principales y su contribución al proyecto. |
+<table>
+<tr>
+ <th colspan="4">Foto</th>
+ <th colspan="6">Apellido y nombre</th>
+ <th colspan="6">Carrera</th>
+ <th colspan="8">Acerca de</th>
+</tr>
+
+<tr>
+ <th colspan="4"><img src="assets/chapter1/Foto_Jorge.jpeg"></th>
+ <th colspan="6">Retuerto Rodríguez, Jorge Manuel</th>
+ <th colspan="6">u202318612</th>
+ <th colspan="6">Ingenieria de Software</th>
+ <th colspan="8">Mi nombre es Jorge Manuel Retuerto Rodríguez, tengo 20 años y estoy cursando el 6to ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Mi conocimiento y habilidades de programación son intermedias en C++, C#, HTML y CSS. Sin embargo, básicas en Python y Java. Me haré responsable de la comunicación del grupo, planificación y desarrollo junto a mi equipo.</th>
+</tr>
+
+<tr>
+ <th colspan="4"><img src="assets\chapter1\Foto Yazid.jpeg" ></th>
+ <th colspan="6">Said Conde, Yazid</th>
+ <th colspan="6">u202312348</th>
+ <th colspan="6">Ingenieria de Software</th>
+ <th colspan="8">Me considero una persona responsable al momento de trabajar en equipo, siempre proactivo y dispuesto a tomar las riendas en situaciones criticas. Me encanta programar y todo el area de desarrollo de software, desarrollo de videojuegos y ciberseguridad en el area de Red Team. Tengo conocimientos en Python, SQL, C++, desarrollo web. Mis conocimientos seran de gran ayuda en el desarrollo del proyecto.</th>
+</tr>
+
+<tr>
+ <th colspan="4"></th>
+ <th colspan="6"></th>
+ <th colspan="6"></th>
+ <th colspan="8"></th>
+</tr>
+
+<tr>
+ <th colspan="4"></th>
+ <th colspan="6"></th>
+ <th colspan="6"></th>
+ <th colspan="8"></th>
+</tr>
+
+<tr>
+ <th colspan="4"></th>
+ <th colspan="6"></th>
+ <th colspan="6"></th>
+ <th colspan="8"></th>
+</tr>
+
+</table>
+
 ## 1.2 Solution Profile
 
 <p align="justify">El proyecto <strong>Sistema Inteligente de Registro y Alerta Neonatal (SIRAN)</strong> nace a partir de un problema muy real en el cuidado de recién nacidos: muchas veces las señales de alerta temprana pasan desapercibidas. Esto no ocurre por falta de interés, sino por situaciones comunes como el cansancio de los padres, la falta de experiencia, el desconocimiento de ciertos síntomas o simplemente no llevar un registro ordenado de lo que ocurre día a día. Todos estos factores hacen que sea difícil detectar a tiempo cambios importantes en la salud del bebé, como infecciones o deshidratación, lo que puede retrasar la atención médica en momentos clave. Por eso, el objetivo del proyecto es ayudar a identificar estos riesgos lo antes posible mediante una herramienta que permita registrar y analizar información importante en tiempo real. Como parte del alcance, también se considera que el sistema debe ser fácil de usar, proteger la información personal y adaptarse a estándares médicos.</p>
