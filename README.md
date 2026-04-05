@@ -190,7 +190,7 @@ El equipo alcanzó sus metas gracias a su excelente desempeño en entornos digit
  <th colspan="6">Retuerto Rodríguez, Jorge Manuel</th>
  <th colspan="6">u202318612</th>
  <th colspan="6">Ingenieria de Software</th>
- <th colspan="8">Mi nombre es Jorge Manuel Retuerto Rodríguez, tengo 20 años y estoy cursando el 6to ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Mi conocimiento y habilidades de programación son intermedias en C++, C#, HTML y CSS. Sin embargo, básicas en Python y Java. Me haré responsable de la comunicación del grupo, planificación y desarrollo junto a mi equipo.</th>
+ <th colspan="8"><p align="justify">Mi nombre es Jorge Manuel Retuerto Rodríguez, tengo 20 años y estoy cursando el 6to ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Mi conocimiento y habilidades de programación son intermedias en C++, C#, HTML y CSS. Sin embargo, básicas en Python y Java. Me haré responsable de la comunicación del grupo, planificación y desarrollo junto a mi equipo. </p></th>
 </tr>
 
 <tr>
@@ -198,7 +198,7 @@ El equipo alcanzó sus metas gracias a su excelente desempeño en entornos digit
  <th colspan="6">Said Conde, Yazid</th>
  <th colspan="6">u202312348</th>
  <th colspan="6">Ingenieria de Software</th>
- <th colspan="8">Me considero una persona responsable al momento de trabajar en equipo, siempre proactivo y dispuesto a tomar las riendas en situaciones criticas. Me encanta programar y todo el area de desarrollo de software, desarrollo de videojuegos y ciberseguridad en el area de Red Team. Tengo conocimientos en Python, SQL, C++, desarrollo web. Mis conocimientos seran de gran ayuda en el desarrollo del proyecto.</th>
+ <th colspan="8"><p align="justify">Me considero una persona responsable al momento de trabajar en equipo, siempre proactivo y dispuesto a tomar las riendas en situaciones criticas. Me encanta programar y todo el area de desarrollo de software, desarrollo de videojuegos y ciberseguridad en el area de Red Team. Tengo conocimientos en Python, SQL, C++, desarrollo web. Mis conocimientos seran de gran ayuda en el desarrollo del proyecto.</p></th>
 </tr>
 
 <tr>
