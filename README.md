@@ -539,6 +539,7 @@ El segmento objetivo está compuesto por padres primerizos y jóvenes que cuenta
 <img src="assets\chapter2\Dr. Ricardo Torres.png">
 
 ### 2.3.2. User Task Matrix
+hola
 
 ### 2.3.3. User Journey Mapping
 
